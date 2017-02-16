@@ -10,4 +10,4 @@
 	  do (format t "-"))
        (format t "~%")))
 
-;(printTriangle 23)
+;;;(printTriangle 23)
